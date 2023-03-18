@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    text-align: center;
+}
+
+.welcome-container {
+    margin: 3em 0;
+}
+
+.refresh-clock {
+    margin-top: 0.3em;
+    font-size: 5rem;
+    font-weight: bold;
+}
